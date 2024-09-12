@@ -1,0 +1,14 @@
+C:\Project\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.exe
+C:\Project\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.deps.json
+C:\Project\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.runtimeconfig.json
+C:\Project\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.dll
+C:\Project\SimpleBankApp\bin\Debug\net8.0\SimpleBankApp.pdb
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.AssemblyInfoInputs.cache
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.AssemblyInfo.cs
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.csproj.CoreCompileInputs.cache
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.dll
+C:\Project\SimpleBankApp\obj\Debug\net8.0\refint\SimpleBankApp.dll
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.pdb
+C:\Project\SimpleBankApp\obj\Debug\net8.0\SimpleBankApp.genruntimeconfig.cache
+C:\Project\SimpleBankApp\obj\Debug\net8.0\ref\SimpleBankApp.dll
